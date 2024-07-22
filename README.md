@@ -1,5 +1,5 @@
 # AITutor
-Hi this is Vamsi Dath, i am currently a pre-final year undergrad student pursuing Computer Science and Engineering from the National Institute of Technology Durgapur, West Bengal, India.<br><br> &emsp;This AI Tutor website is based out of OpenAI API.<br><br>
+Hi this is Haneesh Kumar, i am currently a final year undergrad student pursuing Computer Science and Engineering from the National Institute of Technology Durgapur, West Bengal, India.<br><br> &emsp;This AI Tutor website is based out of OpenAI API.<br><br>
             <ul> <b>The tech stack that are used includes:</b>
                 <li>HTML</li>
                 <li>CSS</li>
